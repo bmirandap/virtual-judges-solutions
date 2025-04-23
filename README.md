@@ -16,4 +16,4 @@ The resolution of the problems was done in the highest version of the programmin
   + java
   + python
 - **[UVa](./uva)** - List of [problems](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8) in English with solutions in:
-  + python
+  + [python](./uva/python)
