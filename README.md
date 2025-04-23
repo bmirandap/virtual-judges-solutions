@@ -5,9 +5,10 @@
 ### List of online judges
 The resolution of the problems was done in the highest version of the programming language that the virtual judge accepts up to that moment.
 
-- **[codeforces](./codeforces)** - List of [problems](https://codeforces.com/problemset) in English with solutions in:
-  + c++
-  + python
+- **[codeforces](./codeforces)** - List of [problems](https://codeforces.com/problemset/page/3?order=BY_RATING_ASC) in English sorted by difficulty:
+  + [difficulty800](.codeforces/difficulty800) with solutions in:
+    * [c++](.codeforces/difficulty800/c++)
+    * [python](.codeforces/difficulty800/python)
 - **[juki](./juki)** - List of [problems](https://judge.juki.app/problems?judge=juki-judge) in Spanish with solutions in:
   + c++ 17
   + python 3
