@@ -12,8 +12,8 @@ The resolution of the problems was done in the highest version of the programmin
   + c++ 17
   + python 3
 - **[patito](./patito)** - List of [problems](https://jv.umsa.bo/problemset.php) in Spanish with solutions in:
-  + c++
-  + java
-  + python
+  + [c++](./patito/c++)
+  + [java](./patito/java)
+  + [python](./patito/python)
 - **[UVa](./uva)** - List of [problems](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8) in English with solutions in:
   + [python](./uva/python)
